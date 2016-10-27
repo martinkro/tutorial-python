@@ -1,0 +1,19 @@
+{
+    "4.6.6f1-dev":{
+        "armeabi-v7a":{
+            "crc":"0xf9ee146d",
+            "offset":["0x3BB7E8","0x3BBD90","0x3BBF58"]
+        },
+        "x86":{
+            "crc":"0x03f504d0",
+            "offset":["0x3FA810", "0x3FAD50", "0x3FAF10"]
+        }
+    }
+}
+
+
+
+
+
+
+
