@@ -18,7 +18,7 @@ if __name__ == "__main__":
     name_suffix = ['hello-world', 'sample', 'python-design-pattern-singleton', 'c++-design-pattern-singleton']
     titles = ['Hello,World', 'Sample', 'Python Design Pattern:Singleton', 'C++ Design Pattern:Singleton']
     
-    content_template = "---\nlayout: post\ntitle: \"%s\"\ndate:%s\n---\n\n"
+    content_template = "---\nlayout: post\ntitle: \"%s\"\ndate: %s\n---\n\n"
     
     temp_posts = "posts"
     if os.path.exists(temp_posts) and os.path.isdir(temp_posts):
